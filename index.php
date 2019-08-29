@@ -4,6 +4,6 @@
  <body>
  <?php echo 'App Version: 2.0. Pod IP: '; ?>
  <?php echo $_SERVER['SERVER_ADDR']; ?>
- <?php echo ' PHP Version: ' . phpversion(); ?>
+ <?php echo ' Current PHP Version: ' . phpversion(); ?>
  </body>
 </html>
