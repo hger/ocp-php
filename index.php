@@ -1,6 +1,6 @@
 <html>
  <head>
- <title>PHP exampel app</title>
+ <title>PHP example app</title>
  </head>
  <body>
  <p><img src="https://www.redhat.com/profiles/rh/themes/redhatdotcom/img/logo.svg" alt="Red Hat logo" width="250">
